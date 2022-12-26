@@ -1,3 +1,1 @@
-Hola, mi nombre es Matias Chacana Zambra
-
-Actualmente soy estudiante de informatica.
+<h1>Hola, mi nombre es matias chacana zambra<h1/>
