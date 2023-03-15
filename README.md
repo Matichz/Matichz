@@ -3,7 +3,9 @@
 
 <h3>Habilidades (Estudiadas por mi cuenta)</h3>
 <ul>
-  <li>HTML</li>
+  <li>HTML
+    <img src='https://github.com/Matichz/Matichz/blob/main/html-5.png' width='20px'/>
+  </li>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
