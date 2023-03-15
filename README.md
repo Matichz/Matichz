@@ -3,7 +3,7 @@ Me gusta mucho el desarrollo de paginas y aplicaciones Web, por lo que tambien t
 
 <h3>Mis habilidades {aprendidas por mi cuenta}</h3> 
 <ul>
-  <li>![](https://github.com/Matichz/Matichz/blob/main/html.png)</li>
+  ![](https://github.com/Matichz/Matichz/blob/main/html.png)
   <li>![](https://github.com/Matichz/Matichz/blob/main/css-3.png)</li>
   <li>![](https://github.com/Matichz/Matichz/blob/main/js.png)</li>
   <li>![](https://github.com/Matichz/Matichz/blob/main/js.png)</li>
