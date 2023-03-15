@@ -6,6 +6,7 @@ Me gusta mucho el desarrollo de paginas y aplicaciones Web, por lo que tambien t
   <li>![](https://github.com/Matichz/Matichz/blob/main/html.png)</li>
   <li>![](https://github.com/Matichz/Matichz/blob/main/css-3.png)</li>
   <li>![](https://github.com/Matichz/Matichz/blob/main/js.png)</li>
+  <li>![](https://github.com/Matichz/Matichz/blob/main/js.png)</li>
 </ul>
 
 
