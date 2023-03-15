@@ -6,7 +6,9 @@
   <li>HTML
     <img src='https://github.com/Matichz/Matichz/blob/main/html-5.png' width='20px'/>
   </li>
-  <li>CSS</li>
+  <li>CSS
+    <img src='https://github.com/Matichz/Matichz/blob/main/css-3.png' width='20px'/>
+  </li>
   <li>JavaScript</li>
 </ul>
   
@@ -14,5 +16,6 @@
 <ul>
   <li>React JS</li>
 </ul>
+
 
 
