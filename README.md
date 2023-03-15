@@ -9,13 +9,12 @@
   <li>CSS
     <img src='https://github.com/Matichz/Matichz/blob/main/css-3.png' width='20px'/>
   </li>
-  <li>JavaScript</li>
+  <li>JavaScript
+    <img src='https://github.com/Matichz/Matichz/blob/main/js.png' width='15px'/>
+  </li>
 </ul>
   
 <h3>Libreria (Aprendiendo)</h3>
 <ul>
   <li>React JS</li>
 </ul>
-
-
-
