@@ -10,7 +10,7 @@
   
 <h3>Libreria (Aprendiendo)</h3>
 <ul>
-  <li>React</li>
+  <li>React JS</li>
 </ul>
 
 
