@@ -16,7 +16,7 @@
   
 <h3>Libreria (Aprendiendo)</h3>
 <ul>
-  <li>React JS
+  <li>React JS (Basico)
     <img src='https://github.com/Matichz/Matichz/blob/main/science.png' width='17px'/>
   </li>
 </ul>
