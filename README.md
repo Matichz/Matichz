@@ -3,13 +3,13 @@
 
 <h3>Habilidades (Estudiadas por mi cuenta)</h3>
 <ul>
-  <li>HTML
+  <li>HTML (Medio avazando)
     <img src='https://github.com/Matichz/Matichz/blob/main/html-5.png' width='20px'/>
   </li>
-  <li>CSS
+  <li>CSS (Medio)
     <img src='https://github.com/Matichz/Matichz/blob/main/css-3.png' width='20px'/>
   </li>
-  <li>JavaScript
+  <li>JavaScript (Basico Medio)
     <img src='https://github.com/Matichz/Matichz/blob/main/js.png' width='15px'/>
   </li>
 </ul>
